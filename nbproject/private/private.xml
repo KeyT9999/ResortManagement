@@ -2,6 +2,46 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Repository/IEmployeeRepository.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Repository/IContactRepository.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Service/ICustomerService.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Service/IEmployeeService.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Repository/EmployeeRepository.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Controller/FuramaResortApp.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Service/ContractService.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Repository/PromotionRepository.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Model/Booking.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Model/Customer.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/View/Menu.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Model/Contract.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Repository/IFacilityRepository.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Model/Room.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Service/FacilityService.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Service/IPromotionService.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Repository/CustomerRepository.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Service/EmployeeService.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/View/Validation.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Repository/BookingRepository.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Model/Villa.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Service/Service.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Model/Employee.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Service/IContactService.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Model/Facility.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Repository/Repository.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Repository/IBookingRepository.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Service/PromotionService.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Model/Person.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Service/IFacilityService.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Service/IBookingService.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Data/booking.csv</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Repository/IPromotionRepository.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Model/House.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Repository/ICustomerRepository.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Repository/ContractRepository.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Service/CustomerService.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Repository/FacilityRepository.java</file>
+            <file>file:/C:/Learn%20Kì%203/LAB211/Slot%206/ResortManagement/src/Service/BookingService.java</file>
+        </group>
     </open-files>
 </project-private>
